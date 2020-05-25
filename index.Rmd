@@ -28,3 +28,32 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+## About
+
+I am a professor in and chair of the Kinesiology Department at Southwestern University in Georgetown, TX.
+
+I earned a BA in physics from the College of Wooster and a PhD in Exercise Science with a specialization in Biomechanics from Arizona State University.
+
+## Interests
+
+* Live Music
+* Running
+* Swimming
+
+## Projects
+
+* Angular Momentum in Swim Starts
+* Dolphin Kicking in Competitive Swimming
+* Tracking Scapular Movement During Rehabilitation Exercises
+* My First Data Science Project
+
+## Profiles 
+
+* [LinkedIn](https://www.linkedin.com/in/scott-mclean-a3609658/)
+* ...
+* [GitHub](http://github.com/smclean99)
+
+## Contact
+
+* [youremail@email](mailto:mcleans@southwestern.edu)
