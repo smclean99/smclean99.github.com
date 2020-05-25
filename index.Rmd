@@ -8,6 +8,7 @@ output:
     toc: true
     toc_depth: 3
     toc_float: true
+
 ---
 
 ```{r setup, include=FALSE}
@@ -37,6 +38,10 @@ I earned a BA in physics from the College of Wooster and a PhD in Exercise Scien
 
 * [LinkedIn](https://www.linkedin.com/in/scott-mclean-a3609658/)
 * [GitHub](http://github.com/smclean99)
+
+## Image
+![](img/mclean.png) {width=100px}
+
 
 ## Contact
 
